@@ -1,6 +1,6 @@
 # Angular first app
 
-Découverte d'angular via le tutoriel du site officier :
+Découverte d'angular via le tutoriel du site officiel :
 https://angular.io/tutorial/first-app
 
 ## What do you need?
